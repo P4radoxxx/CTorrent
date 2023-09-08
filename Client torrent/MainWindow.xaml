@@ -1,0 +1,97 @@
+﻿<Window x:Class="Client_torrent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_torrent"
+        mc:Ignorable="d"
+        Title="Client torrent" Height="286" Width="1300" Closing="MainClosing" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ListView x:Name="LV_TORRENTS" d:ItemsSource="{d:SampleData ItemCount=5}" ItemsSource="{Binding Torrents}" >
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem x:Name="BT_Reprendre" Header="Reprendre" Click="BT_Reprendre_Click" />
+                    <MenuItem x:Name="BT_PAUSE" Header="Pause" Click="BT_PAUSE_Click" />
+                    <Separator />
+                    <MenuItem x:Name="BT_SUPPRIMER"  Header="Supprimer" Click="BT_SUPPRIMER_Click" />
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Nom" Width="350" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Nom}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Status" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Status}" HorizontalAlignment="Center" TextAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Progression" Width="150" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <ProgressBar Name="progressBar" Width="130" Height="15" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <ProgressBar.Template>
+                                        <ControlTemplate TargetType="ProgressBar">
+                                            <Grid>
+                                                <ProgressBar Maximum="{TemplateBinding Maximum}" Value="{Binding Progression}" Background="{TemplateBinding Background}" />
+                                                <TextBlock Text="{Binding Progression, StringFormat={}{0}%}" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" />
+                                            </Grid>
+                                        </ControlTemplate>
+                                    </ProgressBar.Template>
+                                </ProgressBar>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Taille" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Taille}" HorizontalAlignment="Center" TextAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Seeds" Width="100"  >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Seeds}" HorizontalAlignment="Center" TextAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Peers" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Peers}" HorizontalAlignment="Center" TextAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Débit descendant" Width="100" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding DebitDownload}" HorizontalAlignment="Center" TextAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Débit ascendant" Width="100" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding DebitUpload}" HorizontalAlignment="Center" TextAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Durée" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Duree}" HorizontalAlignment="Center" TextAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

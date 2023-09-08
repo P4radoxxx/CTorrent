@@ -1,0 +1,99 @@
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\Client torrent.exe.config
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\Client torrent.exe
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\Client torrent.pdb
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\Mono.Nat.dll
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\MonoTorrent.dll
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\ReusableTasks.dll
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\Mono.Nat.xml
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\MonoTorrent.xml
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\ReusableTasks.xml
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent.csproj.AssemblyReference.cache
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\MainWindow.g.cs
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\App.g.cs
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent_MarkupCompile.cache
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent_MarkupCompile.lref
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\MainWindow.baml
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent.g.resources
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client_torrent.Properties.Resources.resources
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent.csproj.GenerateResource.cache
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent.csproj.CoreCompileInputs.cache
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent.csproj.CopyComplete
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent.exe
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\obj\Release\Client torrent.pdb
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\Newtonsoft.Json.dll
+C:\Users\m.bequet\source\repos\Client torrent\Client torrent\bin\Release\Newtonsoft.Json.xml
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\Client torrent.exe.config
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\Client torrent.exe
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\Client torrent.pdb
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\Mono.Nat.dll
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\MonoTorrent.dll
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\Newtonsoft.Json.dll
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\ReusableTasks.dll
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\Mono.Nat.xml
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\MonoTorrent.xml
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\Newtonsoft.Json.xml
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\bin\Release\ReusableTasks.xml
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent.csproj.AssemblyReference.cache
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\MainWindow.g.cs
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\App.g.cs
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent_MarkupCompile.cache
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent_MarkupCompile.lref
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\MainWindow.baml
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent.g.resources
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client_torrent.Properties.Resources.resources
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent.csproj.GenerateResource.cache
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent.csproj.CoreCompileInputs.cache
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent.csproj.CopyComplete
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent.exe
+C:\Users\Cyril\source\repos\Client-torrent\Client torrent\obj\Release\Client torrent.pdb
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\Client torrent.exe.config
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\Client torrent.exe
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\Client torrent.pdb
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\Mono.Nat.dll
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\MonoTorrent.dll
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\Newtonsoft.Json.dll
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\ReusableTasks.dll
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\Mono.Nat.xml
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\MonoTorrent.xml
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\Newtonsoft.Json.xml
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\bin\Release\ReusableTasks.xml
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent.csproj.AssemblyReference.cache
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\MainWindow.g.cs
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\App.g.cs
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent_MarkupCompile.cache
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent_MarkupCompile.lref
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\MainWindow.baml
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent.g.resources
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client_torrent.Properties.Resources.resources
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent.csproj.GenerateResource.cache
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent.csproj.CoreCompileInputs.cache
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent.csproj.CopyComplete
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent.exe
+E:\VisualStudio\C# 2023\Client torrent\Client torrent\obj\Release\Client torrent.pdb
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\Client torrent.exe.config
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\Client torrent.exe
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\Client torrent.pdb
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\Mono.Nat.dll
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\MonoTorrent.dll
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\Newtonsoft.Json.dll
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\ReusableTasks.dll
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\Mono.Nat.xml
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\MonoTorrent.xml
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\Newtonsoft.Json.xml
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\bin\Release\ReusableTasks.xml
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent.csproj.AssemblyReference.cache
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent.csproj.SuggestedBindingRedirects.cache
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\MainWindow.g.cs
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\App.g.cs
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent_MarkupCompile.cache
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent_MarkupCompile.lref
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\MainWindow.baml
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent.g.resources
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client_torrent.Properties.Resources.resources
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent.csproj.GenerateResource.cache
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent.csproj.CoreCompileInputs.cache
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent.csproj.CopyComplete
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent.exe
+C:\Users\c.bouvier\Desktop\Client-torrent-Marvin\Client torrent\obj\Release\Client torrent.pdb
